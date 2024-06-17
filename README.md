@@ -41,7 +41,6 @@ for bands and albums, using Hibernate to manage the queries and applying importa
 - Data Persistence
 - Use of JPA and Hibernate
 - Use of Generic Types
-- Generic Types
 - Clean Code and Code Optimization
 
 ## 📂 Project access
